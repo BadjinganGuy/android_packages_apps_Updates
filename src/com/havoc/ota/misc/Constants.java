@@ -33,7 +33,7 @@ public class Constants {
     public static final String CURRENT_DEVICE_NAME = "ro.havoc.device";
     public static final String CURRENT_VERSION = "ro.mod.version";
     public static final String CURRENT_BUILD_TYPE = "ro.havoc.releasetype";
-    public static final String OTA_URL = "https://raw.githubusercontent.com/Havoc-OS/OTA/pie/%s";
+    public static final String OTA_URL = "https://raw.githubusercontent.com/BadjinganGuy/OTA/pie/%s";
     // Expressions
     public static final String FILENAME_DATE_FORMAT = "yyyyMMdd-Hm";
     public static final String PATTERN_FILENAME_DATE_FORMAT = "(\\d{4}\\d{2}\\d{2}-\\d{2}\\d{2})";
